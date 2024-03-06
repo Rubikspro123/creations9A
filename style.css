@@ -1,0 +1,77 @@
+.link{
+    font-size: 20px;
+    font-family: monospace;
+    margin: 5px;
+    color:  rgb(181, 226, 249);
+    transition: font-size 0.3s ease
+}
+.link:hover{
+    color:  rgb(181, 226, 249);
+    font-size: 25px;
+}
+.brand{
+    margin: 5px;
+    margin-left: 5px;
+    color: rgb(181, 226, 249);
+    font-family: impact;
+}
+.brand:hover{
+    color:  rgb(181, 226, 249);
+}
+.nav-bar{
+    color:  rgb(181, 226, 249);
+    background-color: rgb(6, 43, 71);
+}
+body{
+    background-color:  rgb(181, 226, 249);
+}
+#contact{
+    margin-top: 900px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#about{
+    margin-top: 800px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.icon{
+    background-color:  rgb(6, 43, 71);
+    border-radius: 10px;
+    font-size: 20px;
+    transition: font-size 0.3s ease;
+    border-color:rgb(6, 43, 71) ;
+}
+.icon:hover{
+    background-color: rgb(6, 43, 71);
+    font-size: 22px;
+    border-color:rgb(6, 43, 71) ;
+
+}
+.whole-thing{
+    margin-top: 105px;
+}
+.image{
+   border-radius: 20px;
+   width: 1200px;
+    height: 640px;;
+}
+.image-caption{
+   margin-bottom: 535px;
+   font-size: 40px;
+   background-color: rgb(6, 43, 71);
+   border-radius: 20px;
+   padding-bottom: 5px;
+   padding-top: 5px;
+   text-align: left;
+   padding-left: 15px;
+   font-family: Impact;
+   color: rgb(181, 226, 249);
+}
+.caption{
+   position: absolute;
+   left:0;
+   margin-left: 50px;
+}
